@@ -4,6 +4,7 @@ const Score = (props) => {
             <p>{props.scores.score}</p>
 
             <p>{props.scores.date}</p>
+
         </div>
     );
 }
